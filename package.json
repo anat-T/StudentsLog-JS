@@ -1,0 +1,15 @@
+{
+  "name": "students-log-js",
+  "version": "1.0.0",
+  "description": "mememe blablabla",
+  "main": "main.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Anat Tetroashvili",
+  "license": "ISC",
+  "dependencies": {
+    "dom": "0.0.3",
+    "mongodb": "^3.3.2"
+  }
+}
